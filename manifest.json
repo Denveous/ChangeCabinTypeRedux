@@ -1,0 +1,10 @@
+{
+  "Name": "ChangeCabinType",
+  "Author": "funnysnek (Patched by Denveous)",
+  "Version": "1.0.2-unofficial",
+  "Description": "changes the type of cabin you are in",
+  "UniqueID": "funnysnek.ChangeCabinType",
+  "EntryDll": "ChangeCabinType.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [ "Nexus:28591" ]
+}
